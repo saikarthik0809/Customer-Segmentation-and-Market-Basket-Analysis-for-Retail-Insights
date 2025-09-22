@@ -97,7 +97,13 @@ Scatterplots of RFM clusters (Recency vs Frequency, Frequency vs Monetary).
 
 Network graphs of association rules per cluster.
 
+<img width="794" height="658" alt="image" src="https://github.com/user-attachments/assets/21d46fed-1084-4cd6-8b4d-ca3442acd96c" />
+
 <img width="794" height="658" alt="image" src="https://github.com/user-attachments/assets/08b411c0-5a35-4095-a4b7-5ca961233138" />
+
+<img width="794" height="658" alt="image" src="https://github.com/user-attachments/assets/51c4e3e1-ed1a-4766-a5cb-55c61be08797" />
+
+<img width="794" height="658" alt="image" src="https://github.com/user-attachments/assets/4d2f60fd-d946-4271-8992-7ab487354000" />
 
 
 Business-facing summary
