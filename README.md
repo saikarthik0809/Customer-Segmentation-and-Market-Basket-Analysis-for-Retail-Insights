@@ -92,9 +92,40 @@ Visuals
 
 Scatterplots of RFM clusters (Recency vs Frequency, Frequency vs Monetary).
 
+<img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/fa7f199e-ade3-43f5-a787-3f537b920d16" />
+<img width="694" height="547" alt="image" src="https://github.com/user-attachments/assets/b3aaf7e7-25f7-4ece-b45f-04daaea10b81" />
+
 Network graphs of association rules per cluster.
 
-Business-facing summary tables connecting Cluster → Behavior → Strategy.
+<img width="794" height="658" alt="image" src="https://github.com/user-attachments/assets/08b411c0-5a35-4095-a4b7-5ca961233138" />
+
+
+Business-facing summary
+
+Cluster 0 – Average
+
+Behavior: Occasion-driven (tea plates, Christmas decor, picnic bags)
+
+Strategy: Seasonal promotions, holiday discounts, themed offers
+
+Cluster 1 – Inactive
+
+Behavior: Low-cost, entry items (tea plates, paper cups, small decor)
+
+Strategy: Win-back offers, discount bundles, starter packs
+
+Cluster 2 – VIP
+
+Behavior: High-value complete sets (herb markers, premium bundles)
+
+Strategy: Bundle promotions, premium loyalty programs, stock management
+
+Cluster 3 – Loyal
+
+Behavior: Bundles + decor (herb markers, beakers, themed products)
+
+Strategy: Upsell to VIP bundles, loyalty rewards, cross-selling kits
+
 
 Key Insights
 
